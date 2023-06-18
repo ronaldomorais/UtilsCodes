@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WebApiBackgroundTImer.cs.props" />
+</Project>
